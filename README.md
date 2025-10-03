@@ -4,9 +4,9 @@
 - ☁️ AWS Certified Solutions Architect (SAA)
 - 🤖 Exploring AI Agents, MLOps and Generative AI 
 
-### Tech Stack  
+## Tech Stack  
 
-#### Languages  
+### Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)  
 
@@ -21,19 +21,19 @@
 ![LangChain](https://img.shields.io/badge/LangChain-0E83CD?style=flat-square&logo=chainlink&logoColor=white) 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)  
 
-#### Development Tools  
+### Development Tools  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) 
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) 
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) 
 ![Pre-commit](https://img.shields.io/badge/Pre--commit-FAB040?style=flat-square&logo=pre-commit&logoColor=black) 
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white)  
 
-#### Databases & Storage  
+### Databases & Storage  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) 
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)  
 
-#### DevOps & MLOps  
+### DevOps & MLOps  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) 
@@ -41,7 +41,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) 
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)  
 
-#### Other Tools  
+### Other Tools  
 ![Anaconda](https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white) 
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
