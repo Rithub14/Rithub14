@@ -10,8 +10,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
 
----
-
 #### 🤖 ML / DL  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
@@ -23,8 +21,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-0E83CD?style=for-the-badge&logo=chainlink&logoColor=white)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)  
 
----
-
 #### ⚙️ Development Tools  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063.svg?style=flat-square&logo=Pydantic&logoColor=white)  
@@ -32,14 +28,10 @@
 ![Pre-commit](https://img.shields.io/badge/Pre--commit-FAB040.svg?style=flat-square&logo=pre-commit&logoColor=black)  
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA.svg?style=flat-square&logo=Poetry&logoColor=white)  
 
----
-
 #### 🗄️ Databases & Storage  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat-square&logo=Redis&logoColor=white)  
 ![S3](https://img.shields.io/badge/S3-569A31.svg?style=flat-square&logo=Amazon-S3&logoColor=white)  
-
----
 
 #### 🚀 DevOps & MLOps  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -48,8 +40,6 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logoColor=white&style=flat-square&logo=GItHub-Actions)  
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)  
-
----
 
 #### 🛠 Other Tools  
 ![Anaconda](https://img.shields.io/badge/Conda-44A833.svg?style=flat-square&logo=Anaconda&logoColor=white)  
