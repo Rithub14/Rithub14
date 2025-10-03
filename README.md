@@ -24,5 +24,5 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ## 📊 Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rithub14&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rithub14&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rithub14&show_icons=true&theme=github_light)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rithub14&layout=compact&theme=github_light)
