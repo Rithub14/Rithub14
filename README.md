@@ -26,3 +26,7 @@
 ## 📊 Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rithub14&show_icons=true&theme=github_light)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rithub14&layout=compact&theme=github_light)
+
+## 📫 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rizwan-aslam-cs/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://rizwan-aslam.netlify.app/)
