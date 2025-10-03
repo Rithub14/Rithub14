@@ -23,10 +23,10 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-## 📊 Stats
-| GitHub Metrics | Top Languages |
-|----------------|---------------|
-| ![Metrics](./metrics.svg) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rithub14&layout=compact&theme=github_light) |
+## 📊 Stats  
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rithub14&theme=github)  
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rithub14&theme=github)
 
 ## 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rizwan-aslam-cs/)  
