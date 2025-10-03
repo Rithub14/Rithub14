@@ -1,8 +1,8 @@
 ## 🧠 About Me
 - 🎓 MSc Artificial Intelligence @ BTU Cottbus  
 - 💻 AI Engineer @ IAV Germany  
-- ☁️ AWS Certified SAA
-- 🤖 Exploring AI Agents, MLOps, and Generative AI 
+- ☁️ AWS Certified Solutions Architect (SAA)
+- 🤖 Exploring AI Agents, MLOps and Generative AI 
 
 ## 🏆 Languages and Tools  
 <!-- Core Programming -->
