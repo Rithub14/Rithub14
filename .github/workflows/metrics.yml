@@ -2,8 +2,8 @@ name: Metrics
 
 on:
   schedule: 
-    - cron: "0 0 * * *"   # Updates once per day
-  workflow_dispatch:      # Allow manual runs
+    - cron: "0 0 * * *"   # update daily
+  workflow_dispatch:      # allow manual runs
 
 jobs:
   github-metrics:
@@ -17,6 +17,9 @@ jobs:
           template: classic
           base: header
           config_timezone: Europe/Berlin
+
+          filename: metrics.svg
+          committer_message: "chore(metrics): update profile metrics"
 
           plugin_stars: yes
           plugin_activity: yes
